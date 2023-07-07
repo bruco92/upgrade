@@ -1,0 +1,5 @@
+apt update
+apt upgrade -y
+apt full-upgrade -y
+apt autoremove --purge
+apt clean
